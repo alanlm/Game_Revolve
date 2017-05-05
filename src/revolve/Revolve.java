@@ -26,4 +26,4 @@ public class Revolve
         f.setVisible(true); // needed so the frame can appear 
     } // end of main 
     
-} // end of project 
+} // end of Revolve project 
